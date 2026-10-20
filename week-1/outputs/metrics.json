@@ -1,0 +1,26 @@
+{
+  "device": "cuda",
+  "epochs_completed": 30,
+  "best_epoch": 29,
+  "best_validation_accuracy": 0.8966,
+  "test_loss": 0.35393443269729613,
+  "test_accuracy": 0.8879,
+  "class_names": [
+    "airplane",
+    "automobile",
+    "bird",
+    "cat",
+    "deer",
+    "dog",
+    "frog",
+    "horse",
+    "ship",
+    "truck"
+  ],
+  "training_seconds": 569.46,
+  "model_checkpoint": "best_cnn.pth",
+  "curves": [
+    "loss_curve.png",
+    "accuracy_curve.png"
+  ]
+}
