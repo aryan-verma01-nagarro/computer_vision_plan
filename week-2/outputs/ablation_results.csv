@@ -1,0 +1,4 @@
+Experiment,Best validation accuracy (%),Test accuracy (%),Test loss,Training time (min)
+"ResNet18 from scratch, no augmentation",74.94,74.92999999999999,0.745478963136673,2.4555253664652508
+"Pretrained ResNet18, no augmentation",89.03999999999999,88.63,0.40125186462402346,1.811866013209025
+"Pretrained ResNet18, with augmentation",87.9,87.94,0.3544646489620209,3.471357218424479

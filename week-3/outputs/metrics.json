@@ -1,0 +1,9 @@
+{
+  "dataset": "COCO128 (small public COCO subset)",
+  "model": "yolov8n.pt",
+  "epochs_configured": 25,
+  "precision": 0.8315125257435092,
+  "recall": 0.6811463316409399,
+  "mAP50": 0.7940780586475534,
+  "mAP50_95": 0.6100227615162882
+}
